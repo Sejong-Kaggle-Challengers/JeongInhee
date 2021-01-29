@@ -7,3 +7,4 @@
 |[5주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/5%EC%A3%BC%EC%B0%A8)|아파트경매가격예측|70926123.07018|[dacon_link](https://dacon.io/competitions/official/17801/leaderboard/)|
 |[6주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/6%EC%A3%BC%EC%B0%A8)|신용카드거래데이터시각화||[dacon_link](https://dacon.io/competitions/official/42473/overview/)|
 |[7주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/7%EC%A3%BC%EC%B0%A8)|KCB금융스타일시각화/부동산과대출상관관계||[dacon_link](https://dacon.io/competitions/official/82407/overview/)|
+|[8주차]()|퇴근시간버스승차인원예측||[dacon_link](https://dacon.io/competitions/official/229255/overview/)|
