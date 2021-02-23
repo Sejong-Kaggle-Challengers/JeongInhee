@@ -12,7 +12,7 @@ loss : Crossentropy
 
 optimizer : Adam
 
-learningrate schediler : CosineAnnealingWarmRestart
+learningrate scheduler : CosineAnnealingWarmRestart
 
 결과 : CUDA memory 문제로 결과 못냄 -> 해결시도중
 
