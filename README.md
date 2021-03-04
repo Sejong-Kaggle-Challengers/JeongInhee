@@ -9,4 +9,5 @@
 |[6주차-2](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/7%EC%A3%BC%EC%B0%A8)|KCB금융스타일시각화/부동산과대출상관관계||[dacon_link](https://dacon.io/competitions/official/82407/overview/)|4등코드분석|
 |[7주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/7%EC%A3%BC%EC%B0%A8)|퇴근시간버스승차인원예측||[dacon_link](https://dacon.io/competitions/official/229255/overview/)|데이터분석및시각화<br>1등코드분석|
 |[8주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/8%EC%A3%BC%EC%B0%A8)|반도체박막두께예측||[dacon_link](https://dacon.io/competitions/official/235554/overview/)|1등코드분석(MLP)|
-|[10주차-진행중](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/10%EC%A3%BC%EC%B0%A8)|컴퓨터비전학습||[dacon_link](https://dacon.io/competitions/official/235626/codeshare/1682?page=1&dtype=recent&ptype=pub)|코드분석(CNN)|
+|[10주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/10%EC%A3%BC%EC%B0%A8)|컴퓨터비전학습||[dacon_link](https://dacon.io/competitions/official/235626/codeshare/1682?page=1&dtype=recent&ptype=pub)|코드분석(CNN)|
+|[11주차]()|소설작가분류||[dacon_link](https://dacon.io/competitions/official/235670/codeshare/)|NLP|
