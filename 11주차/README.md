@@ -22,8 +22,8 @@ Embedding : 문장형태인 데이터를 vector화 하는 것과 같은 의미�
 
 [documentation] : https://torchtext.readthedocs.io/en/latest/index.html
 
-[참고자료]:https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
+[참고자료] : https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
 
-[예제]:https://wikidocs.net/60314
+[예제] : https://wikidocs.net/60314
 
 
