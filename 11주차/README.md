@@ -14,16 +14,16 @@ Padding : 모델에 입력하기 위해서는 일정한 길이를 가져야 하�
 
 Embedding : 문장형태인 데이터를 vector화 하는 것과 같은 의미인 것 같음, 결론은 vectorizing=embedding
 
-embedding 관련 참고자료 : https://eda-ai-lab.tistory.com/428
+[embedding 관련 참고자료] : https://eda-ai-lab.tistory.com/428
 
 ### torchtext 
 
 문장 데이터를 embedding 할 때, 유용하게 쓰이는 라이브러리
 
-documentation : https://torchtext.readthedocs.io/en/latest/index.html
+[documentation] : https://torchtext.readthedocs.io/en/latest/index.html
 
-참고자료:https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
+[참고자료]:https://simonjisu.github.io/nlp/2018/07/18/torchtext.html
 
-예제:https://wikidocs.net/60314
+[예제]:https://wikidocs.net/60314
 
 
