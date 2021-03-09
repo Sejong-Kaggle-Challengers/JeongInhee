@@ -7,6 +7,7 @@
 따라서, 기존에 사용하던 함수들이 사용이 안됨.
 
 [torchtext 0.8.1] https://pytorch.org/text/0.8.1/data.html
+
 [torchtext 0.9.0] https://pytorch.org/text/0.9.0/
 
 
