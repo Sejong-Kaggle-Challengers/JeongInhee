@@ -1,6 +1,9 @@
 ﻿## 12주차- NLP with Disaster Tweets in kaggle
 
+
 ### 2021-03-09
+
+#### baseline : https://www.kaggle.com/swarnabha/pytorch-text-classification-torchtext-lstm
 
 기존에 사용했던 torchtext 0.8.1버전이 사용이 안됨 -> torchtext 0.9.0 버전 업그레이드
 
