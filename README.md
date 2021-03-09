@@ -12,4 +12,4 @@
 |[8주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/8%EC%A3%BC%EC%B0%A8)|반도체박막두께예측||[dacon_link](https://dacon.io/competitions/official/235554/overview/)|1등코드분석(MLP)|
 |[10주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/10%EC%A3%BC%EC%B0%A8)|컴퓨터비전학습||[dacon_link](https://dacon.io/competitions/official/235626/codeshare/1682?page=1&dtype=recent&ptype=pub)|코드분석(CNN)|
 |[11주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/11%EC%A3%BC%EC%B0%A8)|소설작가분류||[dacon_link](https://dacon.io/competitions/official/235670/codeshare/)|데이터전처리(NLP)|
-|[12주차]()|Natural Language Processing with Disaster Tweets||[kaggle_link](https://www.kaggle.com/c/nlp-getting-started/overview)|데이터전처리및모델학습(NLP&RNN)|
+|[12주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/12%EC%A3%BC%EC%B0%A8)|Natural Language Processing with Disaster Tweets||[kaggle_link](https://www.kaggle.com/c/nlp-getting-started/overview)|데이터전처리및모델학습(NLP&RNN)|
