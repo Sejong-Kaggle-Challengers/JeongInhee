@@ -14,6 +14,8 @@
 
 ### Stacking 
 
+kaggle Stacking example - https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python 
+
 기본적인 Stacking - https://lsjsj92.tistory.com/558
 
 CV 기반 이용한 Stacking - https://lsjsj92.tistory.com/559?category=853217
