@@ -19,3 +19,10 @@
 CV 기반 이용한 Stacking - https://lsjsj92.tistory.com/559?category=853217
 
 
+#### Stacking Level 1 model:
+
+xgboost, lightGBM, catboost, RidgeClassifier, SGDClassifier, HistGradintBoostingClassifier
+
+#### Stacking Level 2 model :
+
+RidgeClassifier
