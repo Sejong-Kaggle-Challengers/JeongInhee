@@ -13,4 +13,4 @@
 |[10주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/10%EC%A3%BC%EC%B0%A8)|컴퓨터비전학습||[dacon_link](https://dacon.io/competitions/official/235626/codeshare/1682?page=1&dtype=recent&ptype=pub)|코드분석(CNN)|
 |[11주차](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/11%EC%A3%BC%EC%B0%A8)|소설작가분류||[dacon_link](https://dacon.io/competitions/official/235670/codeshare/)|데이터전처리(NLP)|
 |[12주차-2](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/12%EC%A3%BC%EC%B0%A8)|Natural Language Processing with Disaster Tweets||[kaggle_link](https://www.kaggle.com/c/nlp-getting-started/overview)|데이터전처리및모델학습(NLP&RNN)|
-|[12주차-2]()|Tabular Playground Series - Mar 2021||[kaggle_link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/leaderboard)|앙상블학습(Stacking)|
+|[12주차-2](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/12%EC%A3%BC%EC%B0%A8-2)|Tabular Playground Series - Mar 2021||[kaggle_link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/leaderboard)|앙상블학습(Stacking)|
