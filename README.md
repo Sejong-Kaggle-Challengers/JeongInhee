@@ -16,3 +16,7 @@
 |[12주차-2](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/12%EC%A3%BC%EC%B0%A8)|Natural Language Processing with Disaster Tweets||[kaggle_link](https://www.kaggle.com/c/nlp-getting-started/overview)|데이터전처리및모델학습(NLP&RNN)|
 |[12주차-2](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/12%EC%A3%BC%EC%B0%A8-2)|Tabular Playground Series - Mar 2021||[kaggle_link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/leaderboard)|앙상블학습(Stacking)|
 |[3.30](https://github.com/Sejong-Kaggle-Challengers/JeongInhee/tree/main/3.30)|sejong ai 챌린지-문제1(패션 MNIST)|0.80|[kaggle_link](https://www.kaggle.com/c/sejong-ai-challenge-p1)|CNN+KFold|
+|[4.6]()|sejong ai 챌린지-문제3|0.5(rmse)|[kaggle_link](https://www.kaggle.com/c/sejong-ai-challenge-p3)|AutoML|
+|[4.6]()|신용카드사용자연체예측대회|1.09(log_loss)|[dacon_link](https://dacon.io/competitions/official/235713/overview/description/)|AutoML|
+
+
